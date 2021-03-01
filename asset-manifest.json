@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/socialpunishment/static/css/main.085e8b4c.chunk.css",
+    "main.js": "/socialpunishment/static/js/main.728ca7bd.chunk.js",
+    "main.js.map": "/socialpunishment/static/js/main.728ca7bd.chunk.js.map",
+    "runtime-main.js": "/socialpunishment/static/js/runtime-main.3084a7e8.js",
+    "runtime-main.js.map": "/socialpunishment/static/js/runtime-main.3084a7e8.js.map",
+    "static/css/2.150d169a.chunk.css": "/socialpunishment/static/css/2.150d169a.chunk.css",
+    "static/js/2.6d3c1e79.chunk.js": "/socialpunishment/static/js/2.6d3c1e79.chunk.js",
+    "static/js/2.6d3c1e79.chunk.js.map": "/socialpunishment/static/js/2.6d3c1e79.chunk.js.map",
+    "static/js/3.ff7d6972.chunk.js": "/socialpunishment/static/js/3.ff7d6972.chunk.js",
+    "static/js/3.ff7d6972.chunk.js.map": "/socialpunishment/static/js/3.ff7d6972.chunk.js.map",
+    "index.html": "/socialpunishment/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/socialpunishment/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.085e8b4c.chunk.css.map": "/socialpunishment/static/css/main.085e8b4c.chunk.css.map",
+    "static/js/2.6d3c1e79.chunk.js.LICENSE.txt": "/socialpunishment/static/js/2.6d3c1e79.chunk.js.LICENSE.txt",
+    "static/media/fight_for_democracy.b95f400f.jpg": "/socialpunishment/static/media/fight_for_democracy.b95f400f.jpg",
+    "static/media/spring_revolution.8cd1a4e0.jpg": "/socialpunishment/static/media/spring_revolution.8cd1a4e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3084a7e8.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.6d3c1e79.chunk.js",
+    "static/css/main.085e8b4c.chunk.css",
+    "static/js/main.728ca7bd.chunk.js"
+  ]
+}
